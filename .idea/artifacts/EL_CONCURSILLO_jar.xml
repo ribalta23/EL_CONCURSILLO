@@ -1,0 +1,35 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="EL_CONCURSILLO:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/EL_CONCURSILLO_jar</output-path>
+    <root id="archive" name="EL_CONCURSILLO.jar">
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="module-output" name="EL_CONCURSILLO" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/speedment/common/json/1.0.4/json-1.0.4.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/speedment/common/function/1.0.5/function-1.0.5.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/speedment/common/jvm-version/1.0.0/jvm-version-1.0.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/speedment/runtime/runtime-field/3.1.0/runtime-field-3.1.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/speedment/runtime/runtime-config/3.1.0/runtime-config-3.1.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/google/protobuf/protobuf-java/3.21.9/protobuf-java-3.21.9.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/speedment/common/tuple/1.0.8/tuple-1.0.8.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/speedment/common/invariant/1.0.3/invariant-1.0.3.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/speedment/runtime/runtime-application/3.1.0/runtime-application-3.1.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/speedment/runtime/runtime-bulk/3.1.0/runtime-bulk-3.1.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/speedment/runtime/runtime-join/3.1.0/runtime-join-3.1.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/speedment/common/mapstream/2.3.5/mapstream-2.3.5.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/speedment/runtime/connector-postgres/3.1.0/connector-postgres-3.1.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/speedment/runtime/runtime-typemapper/3.1.0/runtime-typemapper-3.1.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/speedment/runtime/runtime-core/3.1.0/runtime-core-3.1.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/speedment/runtime/runtime-compute/3.1.0/runtime-compute-3.1.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/speedment/common/annotation/1.0.0/annotation-1.0.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/speedment/common/singleton-stream/1.0.1/singleton-stream-1.0.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/speedment/common/injector/1.2.1/injector-1.2.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/speedment/runtime/connector-mysql/3.1.0/connector-mysql-3.1.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/mysql/mysql-connector-j/8.0.33/mysql-connector-j-8.0.33.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/speedment/runtime/connector-mariadb/3.1.0/connector-mariadb-3.1.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/speedment/common/lazy/1.0.3/lazy-1.0.3.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/speedment/common/logger/1.0.4/logger-1.0.4.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
